@@ -1,0 +1,3 @@
+Hi, 
+My name is Raghumani Mehta. This is a test file to check if mycp program runs properly. 
+If it does, this file should be copied into ouptut.txt which is present in the root of this project. 
